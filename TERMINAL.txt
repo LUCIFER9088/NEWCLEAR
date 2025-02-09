@@ -1,0 +1,208 @@
+------comands--------
+
+sudo su
+
+cd
+
+sudo apt update -y
+
+sudo apt install python3-venv -y
+
+sudo apt install python3 python3-venv -y
+
+sudo apt install python3-pip -y
+
+python3 -m venv myenv
+
+source myenv/bin/activate
+
+
+
+
+sudo apt-get update
+
+sudo apt-get install git
+
+git clone https://github.com/LUCIFER9088/NEWCLEAR.git
+
+screen
+
+cd NEWCLEAR
+
+chmod +x *
+
+pip install python-telegram-bot
+
+pip install pyTelegramBotAPI flask
+
+gcc -o NEWCLEAR NEWCLEAR.c
+
+gcc NEWCLEAR.c -o NEWCLEAR -lpthread
+
+python3 NEWCLEAR.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"198.23.239.134:6540:puizybrv:9xa6hnf4b3fq",
+"207.244.217.165:6712:puizybrv:9xa6hnf4b3fq",
+"107.172.163.27:6543:puizybrv:9xa6hnf4b3fq",
+"64.137.42.112:5157:puizybrv:9xa6hnf4b3fq",
+"173.211.0.148:6641:puizybrv:9xa6hnf4b3fq",
+"161.123.152.115:6360:puizybrv:9xa6hnf4b3fq",
+"23.94.138.75:6349:puizybrv:9xa6hnf4b3fq",
+"154.36.110.199:6853:puizybrv:9xa6hnf4b3fq",
+"173.0.9.70:5653:puizybrv:9xa6hnf4b3fq",
+"173.0.9.209:5792:puizybrv:9xa6hnf4b3fq",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gcc -o DYNAMIC DYNAMIC.c
+
+gcc bgmi.c -o bgmi -lpthread
+
+pip install telebot flask aiogram pyTelegramBotAPI python-telegram-bot
+
+pip install telebot pymongo aiohttp psutil
+
+pip install python-telegram-bot
+
+pip install pyTelegramBotAPI flask
